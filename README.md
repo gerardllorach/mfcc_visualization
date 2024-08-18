@@ -1,2 +1,2 @@
-# mfcc_visualization
-Visualization of MFCCs
+# MFCCs real-time visualization
+Visualization of MFCCs. [Link to demo]()
